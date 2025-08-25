@@ -1,4 +1,4 @@
-## Hi there 👋
+# Mình là sinh viên Bách Khoa :3
 
 <!--
 **Shinigami1412/Shinigami1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
