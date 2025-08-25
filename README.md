@@ -1,7 +1,7 @@
-# Mình là sinh viên Bách Khoa :3
-# 🛠️ Tech:
+## Mình là sinh viên Bách Khoa :3
+## 🛠️ Tech:
 Language: C++, Java, Python
-# 📫 Contact:
+## 📫 Contact:
 Email: hai.dao1412@hcmut.edu.vn
 
 <!--
