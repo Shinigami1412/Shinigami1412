@@ -1,6 +1,9 @@
 ## Mình là sinh viên Bách Khoa :3
 ## 🛠️ Tech:
 Language: C++, Java, Python
+Frontend: React.js
+Backend: Node.js
+Database: Microsoft SQL Server
 ## 📫 Contact:
 Email: hai.dao1412@hcmut.edu.vn
 
