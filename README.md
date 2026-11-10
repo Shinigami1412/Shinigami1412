@@ -1,8 +1,9 @@
 ## Mình là sinh viên Bách Khoa :3
 ## 🛠️ Tech:
-Language: C++, Java, Python  
+Language: C++, Java, Python
+## 🌐 Language: English, Japanese
 ## 📫 Contact:
-Email: hai.dao1412@hcmut.edu.vn
+Email: haidao201005@gmail.com
 
 <!--
 **Shinigami1412/Shinigami1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
